@@ -1,0 +1,35 @@
+@import url("/font/css.css");
+
+body {
+  font-family: "DSans Regular";
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 300px;
+}
+
+h1,
+h2,
+h3 {
+  font-family: "DSans Bold";
+}
+
+code {
+  color: white;
+  background: rgb(16, 16, 37);
+  padding: 20px;
+  border-radius: 10px;
+}
+
+code > .purple {
+  color: purple;
+}
+
+code > .yellow {
+  color: rgb(255, 255, 184);
+}
+
+code > .dark {
+  color: rgb(92, 108, 135);
+}

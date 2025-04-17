@@ -1,0 +1,9 @@
+@font-face {
+  font-family: "DSans Bold";
+  src: url(DSans-Bold.woff2) format("woff2");
+}
+
+@font-face {
+  font-family: "DSans Regular";
+  src: url(DSans-Regular.woff2) format("woff2");
+}
