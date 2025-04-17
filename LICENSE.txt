@@ -1,0 +1,57 @@
+This is a legal agreement between David/dmx3377 (the copyright holder and licensor) and you (the licensee) regarding the use of the font software identified as "DSans" (the "Font"). By downloading, installing, copying, or otherwise using the Font, you agree to be bound by the terms of this license.
+
+1. CREDIT AND ACKNOWLEDGEMENT
+
+   You must credit the use of the Font in any work (digital or print) where it is visibly used. This credit should be provided through reasonable means, such as:
+
+   * Textual attribution on a website (e.g., "Font used: DSans by David/dmx3377")
+   * Code comments in HTML, CSS, or other relevant code.
+   * A credits section in printed materials, videos, or applications.
+   * Including a reference to the Font in the "About" section of an application.
+
+   The credit should be clearly visible and reasonably prominent depending on the context of use. You also acknowledge that you are using the Font and agree to take reasonable steps to ensure that the attribution remains intact.
+
+2. REDISTRIBUTION
+
+   You are NOT permitted to redistribute the Font software, in whole or in part, in any form (including, but not limited to, sharing the font files, embedding the font file in applications or websites in a way that allows extraction or independent use, or offering the Font for download) without explicit written permission from David. This restriction applies to both commercial and non-commercial redistribution. To obtain permission for redistribution, please contact David at d4vidthedev@gmail.com outlining your intended use.
+
+3. COPYRIGHT
+
+   All copyright, design rights, trademarks, and other intellectual property rights in and to the Font, including but not limited to the font software, typeface design, and any associated documentation, remain the sole and exclusive property of David. This license grants you a non-exclusive, non-transferable, revocable license to use the Font under the terms and conditions specified herein. No ownership rights are transferred to you.
+
+4. PERMITTED USES
+
+   Subject to the restrictions outlined in this license, you are granted a license to use the Font for:
+
+   * Personal, non-commercial projects.
+   * Commercial projects, provided that the credit and acknowledgement requirements in Section 1 are met.
+   * Embedding the Font in documents (e.g., PDF files) for distribution, provided that the Font is embedded in a secure, non-editable format that prevents extraction.
+
+5. RESTRICTIONS
+
+   In addition to the redistribution restrictions in Section 2, you are specifically prohibited from:
+
+   * Modifying, adapting, translating, reverse engineering, decompiling, or disassembling the Font software.
+   * Creating derivative works based on the Font without explicit written permission from David.
+   * Claiming ownership of the design or the Font software.
+   * Using the Font in a manner that is defamatory, libelous, obscene, or otherwise illegal.
+
+6. TERMINATION
+
+   This license will terminate automatically if you fail to comply with any of the terms and conditions herein. Upon termination, you must immediately cease all use of the Font and destroy all copies of the Font in your possession or control.
+
+7. DISCLAIMER OF WARRANTY
+
+   THE FONT IS PROVIDED "AS IS" WITHOUT ANY WARRANTIES, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL DAVID BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES (INCLUDING BUT NOT LIMITED TO LOSS OF USE, DATA, OR PROFITS) ARISING OUT OF OR IN ANY WAY CONNECTED WITH THE USE OR INABILITY TO USE THE FONT, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+8. GOVERNING LAW
+
+   This Agreement shall be governed by and construed in accordance with the laws of England. Any dispute arising out of or in connection with this Agreement shall be subject to the exclusive jurisdiction of the courts of [Insert your preferred jurisdiction].
+
+9. ENTIRE AGREEMENT
+
+   This document constitutes the entire agreement between you and David concerning the Font and supersedes all prior or contemporaneous communications and proposals, whether oral or written, between you and David with respect to the Font.
+
+10. CONTACT
+
+    For any inquiries regarding this license, the Font, or to request permission for redistribution or modification, please contact David at d4vidthedev@gmail.com.
